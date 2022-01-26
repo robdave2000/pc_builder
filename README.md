@@ -9,4 +9,4 @@ Main Features (MVP)
 
 Nice-To-Haves
 1. User login, saves computer build
-2. Part review link
+2. Part review video link
