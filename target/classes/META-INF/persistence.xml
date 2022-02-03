@@ -1,0 +1,26 @@
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
+             version="2.0">
+
+    <persistence-unit name="pcbuilder-persistenceUnit">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+
+        <properties>
+            <property name = "hibernate.dialect" value="org.hibernate.dialect.PostgreSQL95Dialect" />
+
+            <property name="hibernate.show_sql" value="true"/>
+            <property name="hibernate.format_sql" value="true"/>
+
+            <property name="hibernate.hbm2ddl.auto" value="create"/>
+
+            <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://ec2-3-227-15-75.compute-1.amazonaws.com:5432/d56qh1aqguqh8p"/>
+            <property name="javax.persistence.jdbc.user" value="xxjccaramlskpd"/>
+            <property name="javax.persistence.jdbc.password" value="3668eafead4c784c70cdf634c413989ee640d4369ea5e5df9e362d75d2894848"/>
+
+
+        </properties>
+    </persistence-unit>
+
+</persistence>
