@@ -1,4 +1,4 @@
-package main;
+package com.pcbuilder;
 
 import javax.persistence.*;
 
@@ -7,7 +7,7 @@ import javax.persistence.*;
 public class Motherboard {
 
     @Id
-    @Column(name = "motherboard_id")
+    @Column(name = "id")
     private int id;
 
     @Column(name = "brand")
@@ -27,6 +27,8 @@ public class Motherboard {
 
     @Column(name = "amazon_link")
     private String amazonLink;
+
+    public Motherboard() { }
 
     public int getId() {
         return id;
@@ -86,7 +88,7 @@ public class Motherboard {
 
     @Override
     public String toString() {
-        return "Motherboard{" +
+        return "pcbuilder.Motherboard{" +
                 "id=" + id +
                 ", brand='" + brand + '\'' +
                 ", name='" + name + '\'' +

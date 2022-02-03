@@ -1,4 +1,4 @@
-package main;
+package com.pcbuilder;
 
 import org.hibernate.HibernateException;
 
@@ -7,23 +7,22 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.util.concurrent.Callable;
 
 public class DataSeeder {
 
     private static EntityManagerFactory factory;
 
     public static void seedData() throws Exception {
-        factory = Persistence.createEntityManagerFactory("hibernatefundamentals.m04.ex07");
+        factory = Persistence.createEntityManagerFactory("pcbuilder-persistenceUnit");
 
         seedCase();
-        seedCPU();
-        seedCPU_Cooler();
-        seedGPU();
-        seedMotherboard();
-        seedPSU();
-        seedRAM();
-        seedSTORAGE();
+        //seedCPU();
+        //seedCPU_Cooler();
+        //seedGPU();
+        //seedMotherboard();
+        //seedPSU();
+        //seedRAM();
+        //seedSTORAGE();
     }
 
     private static void seedCase() throws Exception {
@@ -43,14 +42,22 @@ public class DataSeeder {
                 String amazonLink = columnValues[6];
 
                 try {
-                    Case case = new Case();
+                    Case casw = new Case();
+                    casw.setId(id);
+                    casw.setBrand(brand);
+                    casw.setName(name);
+                    casw.setType(type);
+                    casw.setColor(color);
+                    casw.setPrice(price);
+                    casw.setAmazonLink(amazonLink);
 
-                } catch (HibernateException e) {
+                    entityManager.persist(casw);
+                }catch (HibernateException e){
                     e.printStackTrace();
                 }
             }
         }
+        entityManager.getTransaction().commit();
     }
 
-    entityManager.getTransaction().commit();
 }

@@ -1,4 +1,4 @@
-package main;
+package com.pcbuilder;
 
 import javax.persistence.*;
 
@@ -7,7 +7,7 @@ import javax.persistence.*;
 public class GPU {
 
     @Id
-    @Column(name = "gpu_id")
+    @Column(name = "id")
     private int id;
 
     @Column(name = "brand")
@@ -110,7 +110,7 @@ public class GPU {
 
     @Override
     public String toString() {
-        return "GPU{" +
+        return "pcbuilder.GPU{" +
                 "id=" + id +
                 ", brand='" + brand + '\'' +
                 ", name='" + name + '\'' +

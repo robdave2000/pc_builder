@@ -1,7 +1,7 @@
 Project
 Help users build a pc by having components prices and compatability provided
 
-Main Features (MVP)
+pcbuilder.Main Features (MVP)
 1. Database of multiple tables of computer components
 2. Conditions in the tables that check compatability between parts (i.e. intel cpu != amd motherboard)
 3. Search/Sort engine

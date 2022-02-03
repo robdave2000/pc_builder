@@ -1,4 +1,4 @@
-package main;
+package com.pcbuilder;
 
 import javax.persistence.*;
 
@@ -7,7 +7,7 @@ import javax.persistence.*;
 public class CPU {
 
     @Id
-    @Column(name = "cpu_id")
+    @Column(name = "id")
     private int id;
 
     @Column(name = "brand")
@@ -154,7 +154,7 @@ public class CPU {
 
     @Override
     public String toString() {
-        return "CPU{" +
+        return "pcbuilder.CPU{" +
                 "id=" + id +
                 ", brand='" + brand + '\'' +
                 ", level='" + level + '\'' +
