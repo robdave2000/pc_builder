@@ -1,0 +1,84 @@
+Corsair|RMx (2021)|ATX|80+ Gold|850W|Full|$149.99|null
+Corsair|RMx (2018)|ATX|80+ Gold|650W|Full|$94.99|null
+EVGA|BQ|ATX|80+ Bronze|600W|Semi|$52.00|null
+Corsair|HX Platinum|ATX|80+ Platinum|1000W|Full|$204.99|null
+Corsair|RM (2019)|ATX|80+ Gold|650W|Full|$114.90|null
+Corsair|RMx (2018)|ATX|80+ Gold|750W|Full|$84.99|null
+Corsair|RM (2019)|ATX|80+ Gold|850W|Full|$127.87|null
+EVGA|BQ|ATX|80+ Bronze|500W|Semi|$39.98|null
+Corsair|CXM|ATX|80+ Bronze|650W|Semi|$59.99|null
+Corsair|AXi|ATX|80+ Titanium|1600W|Full|$689.98|null
+Corsair|RMx (2018)|ATX|80+ Gold|850W|Full|$94.99|null
+EVGA|G3|ATX|80+ Gold|550W|Full|$67.98|null
+EVGA|BR|ATX|80+ Bronze|500W|No|$42.99|null
+Corsair|RMx (2021)|ATX|80+ Gold|1000W|Full|$189.96|null
+EVGA|SuperNOVA GA|ATX|80+ Gold|750W|Full|$99.99|null
+EVGA|B5|ATX|80+ Bronze|650W|Full|$49.99|null
+Corsair|CV|ATX|80+ Bronze|450W|No|$54.99|null
+Asus|ROG Thor 1200P|ATX|80+ Platinum|1200W|Full|$338.99|null
+Cooler Master|MWE GOLD V2|ATX|80+ GOLD|750W|Full|$109.98|null
+EVGA|SuperNOVA GA|ATX|80+ Gold|850W|Full|$121.85|null
+SeaSonic|FOCUS Plus Gold|ATX|80+ Gold|750W|Full|$114.95|null
+Corsair|AX|ATX|80+ Titanium|1000W|Full|$1099.00|null
+EVGA|GD (2019)|ATX|80+ Gold|600W|No|$84.99|null
+Corsair|RM (2021)|ATX|80+ Gold|850W|Full|$124.99|null
+Corsair|RMx (2018)|ATX|80+ Gold|750W|Full|$84.99|null
+EVGA|SuperNOVA G6|ATX|80+ Gold|1000W|Full|$146.41|null
+EVGA|BQ|ATX|80+ Bronze|650W|Semi|$38.99|null
+Corsair|HX Platinum|ATX|80+ Platinum|1200W|Full|$262.26|null
+Corsair|CV|ATX|80+ Bronze|550W|No|$44.99|null
+EVGA|BQ|ATX|80+ Bronze|750W|Semi|$55.99|null
+SeaSonic|FOCUS Plus Gold|ATX|80+ Gold|650W|Full|$105.99|null
+Corsair|RMx (2021)|ATX|80+ Gold|750W|Full|$119.99|null
+EVGA|100-W1-0500-KR|ATX|80+|500W|No|$43.99|null
+MSI|MPG A-GF|ATX|80+ Gold|650W|Full|$94.99|null
+SeaSonic|PRIME Ultra Titanium|ATX|80+ Titanium|1000W|Full|$308.98|null
+EVGA|GD (2019)|ATX|80+ Gold|500W|No|$58.18|null
+EVGA|BR|ATX|80+ Bronze|600W|No|$44.99|null
+EVGA|G1+|ATX|80+ Gold|650W|Full|$69.99|null
+Corsair|TXM Gold|ATX|80+ Gold|650W|Semi|$77.70|null
+EVGA|GD (2019)|ATX|80+ Gold|700W|No|$69.98|null
+Gigabyte|P GM|ATX|80+ Gold|750W|Full|$99.98|null
+Corsair|RMx (2018)|ATX|80+ Gold|550W|Full|$114.99|null
+Asus|ROG Strix|ATX|80+ Gold|850W|Full|$222.53|null
+Corsair|CV|ATX|80+ Bronze|650W|No|$69.99|null
+SeaSonic|FOCUS Plus Platinum|ATX|80+ Platinum|850W|Full|$189.99|null
+NZXT|C|ATX|80+ Gold|750W|Full|$100.75|null
+NZXT|C|ATX|80+ Gold|850W|Full|$119.99|null
+be quiet!|Dark Power Pro 12|ATX|80+ Titanium|1500W|Full|$449.00|null
+EVGA|SuperNOVA GT|ATX|80+ Gold|650W|Full|$64.98|null
+EVGA|SuperNOVA GA|ATX|80+ Gold|550W|Full|$69.90|null
+EVGA|SuperNOVA G6|ATX|80+ Gold|850W|Full|$111.90|null
+EVGA|BA|ATX|80+ Bronze|500W|No|$42.64|null
+EVGA|100-W1-0600-K1|ATX|80+|600W|No|$55.99|null
+Corsair|CXM|ATX|80+ Bronze|750W|Semi|$69.98|null
+ARESGAME|AGV|ATX|80+ Bronze|650W|No|$34.99|null
+Corsair|CXF|ATX|80+ Bronze|750W|Full|$79.99|null
+EVGA|P2|ATX|80+ Platinum|1000W|Full|$226.78|null
+Corsair|RM (2021)|ATX|80+ Gold|750W|Full|$114.99|null
+Corsair|CX (2017)|ATX|80+ Bronze|550W|No|$72.98|null
+SeaSonic|FOCUS Plus Gold|ATX|80+ Gold|850W|Full|$133.88|null
+MSI|MPG A-GF|ATX|80+ Gold|750W|Full|$99.99|null
+SeaSonic|PRIME Platinum|ATX|80+ Platinum|1300W|Full|$299.99|null
+Asus|ROG Thor 850|ATX|80+ Platinum|850W|Full|$225.00|null
+Corsair|CXF|ATX|80+ Bronze|750W|Full|$79.99|null
+EVGA|BR|ATX|80+ Bronze|450W|No|$54.99|null
+EVGA|B5|ATX|80+ Bronze|850W|Full|$75.56|null
+SeaSonic|FOCUS GX|ATX|80+ Gold|750W|Full|$133.13|null
+Corsair|TXM Gold|ATX|80+ Gold|550W|Semi|$99.99|null
+EVGA|BR|ATX|80+ Bronze|700W|No|$48.00|null
+MSI|MPG A-GF|ATX|80+ Gold|850W|Full|$109.99|null
+Corsair|RM (2021)|ATX|80+ Gold|850W|Full|$119.99|null
+SeaSonic|FOCUS Plus Gold|ATX|80+ Gold|550W|Full|$91.67|null
+Corsair|TXM Gold|ATX|80+ Gold|750W|Semi|$132.29|null
+Corsair|CXM|ATX|80+ Bronze|550W|Semi|$84.99|null
+EVGA|BA|ATX|80+ Bronze|600W|No|$50.49|null
+Thermaltake|Smart|ATX|80+|500W|No|$39.99|null
+Corsair|CXM (2015)|ATX|80+ Bronze|450W|Semi|$55.99|null
+BitFenix|Formula Gold|ATX|80+ Gold|650W|No|$54.90|null
+EVGA|P2|ATX|80+ Platinum|650W|Full|$109.99|null
+EVGA|G5|ATX|80+ Gold|650W|Full|$89.99|null
+SeaSonic|FOCUS plus Platinum|ATX|80+ Platinum|750W|Full|$148.99|null
+Corsair|RMx|ATX|80+ Platinum|750W|Full|$148.99|null
+be quiet!|Straight Power 11|ATX|80+ Gold|750W|Full|$129.99|null
+Corsair|HX Platinum|ATX|80+ Platinum|850W|Full|$179.99|null

@@ -1,0 +1,83 @@
+Corsair|Vengeance LPX 16GB|DDR4-3200|2x8GB|16|$66.98|null
+Corsair|Vengeance RGB PRO 16GB|DDR4-3200|2x8GB|16|$87.99|null
+Corsair|Vengeance RGB PRO 32GB|DDR4-3600|2x16GB|18|$152.99|null
+G.Skill|Ripjaws V Series 32GB|DDR4-3200|2x16GB|16|$114.99|null
+G.Skill|Trident Z RGB 16GB|DDR4-3600|2x8GB|18|$89.99|null
+Corsair|Vengeance RGB PRO 16GB|DDR4-3200|2x8GB|16|$82.99|null
+Corsair|Vengeance LPX 32GB|DDR4-3600|2x16GB|18|$129.99|null
+G.Skill|Ripjaws V Series 16GB|DDR4-3200|2x8GB|16|$64.99|null
+Crucial|Ballistix 16GB|DDR4-3600|2x8GB|16|$85.78|null
+Corsair|Dominator Platinum 128GB|DDR4-3200|8x16GB|16|$3998.00|null
+Corsair|Ballistix 16GB|DDR4-3200|2x8GB|16|$86.72|null
+G.Skill|Trident Z Neo 32GB|DDR4-3600|2x16GB|16|$189.99|null
+Corsair|Vengeance RGB Pro SL 32GB|DDR4-3600|2x16GB|18|$154.99|null
+Corsair|Vengeance LPX 16GB|DDR4-3600|2x8GB|18|$76.98|null
+Team T-Force|VULCAN Z 16GB|DDR4-3200|2x8GB|16|$62.99|null
+Crucial|Ballistix 32GB|DDR4-3200|2x16GB|16|$89.99|null
+G.Skill|Trident Z RGB 32GB|DDR4-3600|2x16GB|16|$184.99|null
+G.Skill|Ripjaws V 16GB|DDR4-3600|2x8GB|16|$76.99|null
+Corsair|Vengeance LPX 32GB|DDR4-3200|2x16GB|16|$134.99|null
+Corsair|Vengeance RGB Pro 32GB|DDR4-3200|4x8GB|16|$173.99|null
+G.Skill|Ripjaws V 32GB|DDR4-3600|2x16GB|16|$153.99|null
+Corsair|Vengeance RGB Pro 16GB|DDR4-3600|2x8GB|18|$84.99|null
+Silicon Power|XPOWER Turbine 16GB|DDR4-3200|2x8GB|16|$55.97|null
+G.Skill|Trident Z RGB 128GB|DDR4-4000|4x32GB|18|$719.99|null
+G.Skill|Ripjaws V 16GB|DDR4-3600|2x8GB|18|$58.99|null
+Corsair|Vengeance LPX 16GB|DDR4-3200|2x8GB|16|$71.98|null
+G.Skill|Aegis 8GB|DDR4-3000|1x8GB|16|$29.99|null
+Crucial|Ballistix RGB 16GB|DDR4-3600|2x8GB|16|$91.99|null
+G.Skill|Trident Z RGB 64GB|DDR4-3600|2x32GB|18|$299.99|null
+Corsair Vengeance RGB Pro 32GB|DDR4-3200|4x8GB|16|$174.99|null
+G.Skill|Trident Z RGB 16GB|DDR4-3200|2x8GB|16|$82.99|null
+Team T-Force|Delta RGB 16GB|DDR4-3600|2x16GB|18|$74.99|null
+G.Skill|Trident Z Royal 32GB|DDR4-3600|2x16GB|19|$164.99|null
+Team T-Force|Delta RGB 16GB|DDR4-3200|2x8GB|16|$77.98|null
+Silicon Power|SP016GXLZU320BDAJ5 16GB|DDR4-3200|2x8GB|16|$49.97|null
+Corsair|Vengeance LPX 64GB|DDR4-3200|2x32GB|16|$274.99|null
+G.Skill|Trident Z Neo 16GB|DDR4-3600|2x8GB|16|$114.99|null
+Corsair|Vengeance RGB Pro 32GB|DDR4-3200|2x16GB|16|$144.99|null
+Corsair|Vengeance LPX 8GB|DDR4-2400|1x8GB|16|$39.99|null
+Corsair|Vengeance RGB Pro 16GB|DDR4-3600|2x8GB|18|$91.99|null
+Silicon Power|Gaming 16GB|DDR4-3000|2x8GB|16|$54.97|null
+G.Skill|Aegis 16GB|DDR4-3200|2x8GB|16|$57.99|null
+Corsair|Vengeance RGB Pro 64GB|DDR4-3600|4x16GB|18|$304.99|null
+G.Skill|Trident Z RGB 32GB|DDR4-3600|4x8GB|18|$184.99|null
+G.Skill|Ripjaws V 32GB|DDR4-3600|2x16GB|18|$116.99|null
+Team T-Force|Delta RGB 16GB|DDR4-3600|2x8GB|18|$83.95|null
+G.Skill|Trident Z Neo 64GB|DDR4-3600|4x16GB|16|$389.99|null
+Corsair|Vengeance LPX 16GB|DDR4-3000|2x8GB|15|$75.98|null
+G.Skill|Trident Z RGB 32GB|DDR4-3200|2x16GB|16|$149.99|null
+ADATA|XPG SPECTRIX D60G 16GB|DDR4-3200|2x8GB|16|$71.98|null
+Team T-Force|Zeus 16GB|DDR4-3200|2x8GB|20|$51.99|null
+Crucial|Ballistix 32GB|DDR4-3600|2x16GB|16|$204.99|null
+Crucial|Ballistix 16GB|DDR4-3200|2x8GB|16|$75.99|null
+Kingston|FURY Beast 32GB|DDR4-3600|2x16GB|18|$154.00|null
+G.Skill|Ripjaws V 32GB|DDR4-4000|2x16GB|18|$135.99|null
+G.Skill|Trident Neo 32GB|DDR4-4000|2x16GB|18|$166.99|null
+G.Skill|Ripjaws V 64GB|DDR4-3600|2x32GB|18|$275.99|null
+Corsair|Vengeance RGB Pro 32GB|DDR4-3600|4x8GB|18|$179.99|null
+Corsair|Ballistix RGB 16GB|DDR4-3600|2x8GB|16|$91.99|null
+Corsair|Vengeance RGB Pro 32GB|DDR4-3600|4x8GB|18|$209.99|null
+Neo Forza|FAYE 16GB|DDR4-3200|2x8GB|16|$49.99|null
+Corsair|Dominator Platinum RGB 32GB|DDR4-3600|4x8GB|18|$265.99|null
+Corsair|Vengeance RGB RT 32GB|DDR4-3600|2x16GB|16|$164.99|null
+G.Skill|Aegis 4GB|DDR4-2133|1x4GB|15|$18.98|null
+Patriot|Viper Steel 16GB|DDR4-4400|2x8GB|19|$109.99|null
+G.Skill|Aegis 8GB|DDR4-2400|1x8GB|17|$30.99|null
+Crucial|Ballistix RGB 16GB|DDR4-3200|2x8GB|16|$78.99|null
+Team T-Force|Delta RGB 32GB|DDR4-3600|2x16GB|18|$119.99|null
+Crucial|Ballistix 32GB|DDR4-3200|2x16GB|16|$124.99|null
+Crucial|CT64G4LFQ424A 64GB|DDR4-2400|17|$1277.77|null
+Silicon|Power GAMING 32GB|DDR4-3200|2x16GB|16|$104.97|null
+Crucial Ballistix 16GB|DDR4-3200|2x8GB|16|$75.99|null
+Kingston|HyperX Fury 8GB|DDR4-2666|1x8GB|16|$62.00|null
+G.Skill|Aegis 32GB|DDR4-2666|2x16GB|19|$92.99|null
+Crucial|Ballistix 16GB|DDR4-3600|2x8GB|16|$76.08|null
+Team T-Force|VULCAN Z 16GB|DDR4-3200|2x8GB|16|$54.99|null
+G.Skill|Trident Z RGB 32GB|DDR4-3600|2x16GB|18|$129.99|null
+Corsair|Vengeance LPX 16GB|DDR4-3000|2x8GB|16|$69.98|null
+Corsair|Vengeance LPX 16GB|DDR4-2666|2x8GB|16|$69.98|null
+Corsair|Vengeance LPX 16GB|DDR4-3200|2x8GB|16|$77.99|null
+G.Skill|Trident Z Royal Elite 16GB|DDR4-5333|2x8GB|16|$319.99|null
+G.Skill|Ripjaws V Series 16GB|DDR4-3200|2x8GB|16|$63.99|null
+Corsair|Vengeance RGB Pro 32GB|DDR4-3600|2x16GB|18|$134.99|null

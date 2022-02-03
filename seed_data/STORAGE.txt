@@ -1,0 +1,97 @@
+Samsung|970 Evo Plus|1TB|SSD|M.2|$112.98|null
+Seagate|Barracuda Compute|2TB|HDD|3.5"|$46.99|null
+Western Digital|Blue SN550|1TB|SSD|M.2|$94.99|null
+Samsung|970 EVO Plus|2TB|SSD|M.2|$219.99|null
+Western Digital|Blue SN550|500GB|SSD|M.2|$42.99|null
+Samsung|970 Evo Plus|500GB|SSD|M.2|$69.98|null
+Samsung|980 Pro|2TB|SSD|M.2|$325.74|null
+Samsung|980 Pro|1TB|SSD|M.2|$149.99|null
+Western Digital|Caviar Blue|1TB|HDD|3.5"|$39.99|null
+Samsung|870 Evo|1TB|SSD|2.5"|$119.99|null
+Samsung|980|1TB|SSD|M.2|$114.99|null
+Kingston|A400|240GB|SSD|2.5"|$34.99|null
+Seagate|BarraCuda|1TB|HDD|3.5"|$46.49|null
+Western Digital|WD_BLACK SN750|1TB|SSD|M.2|$129.69|null
+Crucial|P2|1TB|SSD|M.2|$94.99|null
+Seagate|IronWolf Pro|20TB|HDD|3.5"|$599.99|null
+Samsung|870 QVO|2TB|SSD|2.5"|$158.00|null
+Crucial|P2|500GB|SSD|M.2|$55.99|null
+Seagate|BarraCuda|4TB|HDD|3.5"|$69.99|null
+Western Digital|Blue|1TB|SSD|2.5"|$99.99|null
+Sabrent|Rocket Q|8TB|SSD|M.2|$1299.99|null
+Samsung|980|500GB|SSD|M.2|$59.99|null
+Team|QX|15.3TB|SSD|2.5"|$3299.99|null
+Western Digital|Black SN850|1TB|SSD|M.2|$159.99|null
+Western Digital|WD Blue|2TB|HDD|3.5"|$46.99|null
+Kingston|A2000|1TB|SSD|M.2|$97.99|null
+Crucial|MX500|1TB|SSD|2.5"|$89.99|null
+Samsung|970 Evo Plus|250GB|SSD|M.2|$52.99|null
+Samsung|870 Evo|500GB|SSD|2.5"|$69.98|null
+Seagate|BarraCuda Compute|4TB|HDD|3.5"|$69.98|null
+Western Digital|Black SN850|2TB|SSD|M.2|$309.99|null
+Samsung|980 Pro|500GB|SSD|M.2|$109.99|null
+Samsung|870 QVO|8TB|SSD|2.5"|$713.96|null
+Corsair|MP400|8TB|SSD|M.2|$1234.99|null
+Western Digital|Black|4TB|HDD|3.5"|$124.99|null
+Silicon Power|A60|1TB|SSD|M.2|$78.98|null
+Western Digital|Blue|500GB|SSD|2.5"|$59.98|null
+Sabernt|Rocket Q|1TB|SSD|M.2|$89.99|null
+Crucial|MX500|2TB|SSD|2.5"|$196.21|null
+Samsung|870 Evo|4TB|SSD|2.5"|$446.76|null
+Samsung|970 Evo|1TB|SSD|M.2|$168.92|null
+Seagate|BarraCuda Compute|8TB|HDD|3.5"|$139.99|null
+Western Digital|WD_BLACK SN750 SE|1TB|SSD|M.2|$99.99|null
+Crucial|P2|2TB|SSD|M.2|$189.99|null
+Western Digital|Blue SN570|1TB|SSD|M.2|$99.99|null
+Crucial|P5|1TB|SSD|M.2|$99.99|null
+Seagate|IronWolf Pro|4TB|HDD|3.5"|$129.99|null
+Western Digital|Blue SN550|250GB|SSD|M.2|$39.99|null
+Sabrent|Rocket 4.0|1TB|SSD|M.2|$129.99|null
+Intel|660p Series|1TB|SSD|M.2|$94.99|null
+Toshiba|MQ01ABD032|320GB|HDD|2.5"|$13.93|null
+Kingston|A400|480GB|SSD|2.5"|$54.99|null
+Western Digital|WD_BLACK SN750|500GB|M.2|$96.35|null
+Kingston|A400|120GB|SSD|2.5"|$23.99|null
+Crucial|MX500|500GB|SSD|2.5"|$54.99|null
+Samsung|870 Evo|2TB|SSD|2.5"|$229.99|null
+Western Digital|4TB|HDD|3.5"|$59.99|null
+Samsung|870 QVO|4TB|SSD|2.5"|$304.00|null
+Samsung|860 Evo|1TB|SSD|2.5"|$249.00|null
+Team|MP33|1TB|SSD|M.2|$79.97|null
+Sabrent|Rocket Q|2TB|SSD|M.2|$179.99|null
+Samsung|980 Pro|250GB|SSD|M.2|$69.98|null
+Western Digital|Blue|2TB|SSD|M.2|$199.99|null
+PNY|CS900|120GB|SSD|2.5"|$21.99|null
+Seagate|FireCuda 530|4TB|SSD|M.2|$899.99|null
+Sabrent|Rocket|1TB|SSD|M.2|$99.99|null
+SanDisk|SSD PLUS|1TB|SSD|2.5"|$79.98|null
+Corsair|MP600 Force Series Gen4|1TB|SSD|M.2|$144.99|null
+Sabrent|Rocket 4 Plus|4TB|SSD|M.2|$749.99|null
+Western Digital|WD_BLACK SN750 SE|500GB|SSD|M.2|$49.99|null
+Western Digital|WD_BLACK SN750|2TB|SSD|M.2|$799.99|null
+Samsung|870 QVO|1TB|SSD|2.5"|$99.99|null
+Western Digital|Gold|18TB|HDD|3.5"|$464.00|null
+Samsung|860 Evo|500GB|SSD|2.5"|$144.99|null
+Crucial|P1|1TB|SSD|M.2|$122.50|null
+Seagate|EXOS Enterprise|16TB|HDD|3.5"|$285.00|null
+Western Digital|Blue SN550|2TB|SSD|M.2|$208.97|null
+Western Digital|WD Green SN350|960GB|SSD|M.2|$74.98|null
+Team|MP33|512GB|SSD|M.2|$46.99|null
+Seagate|BarraCuda|2TB|HDD|3.5"|$160.00|null
+Western Digital|Black SN850|500GB|SSD|M.2|$99.99|null
+Seagate|FireCuda 530|1TB|SSD|M.2|$169.99|null
+Western Digital|WD Blue|2TB|SSD|2.5"|$179.99|null
+ADATA|SU630|240GB|SSD|2.5"|$29.99|null
+Western Digital|Blue SN570|500GB|SSD|M.2|$49.99|null
+Kingston|A2000|500GB|SSD|M.2|$89.78|null
+Seagate|FireCuda 530|2TB|SSD|M.2|$369.99|null
+ADATA|XPG SX8200 Pro|1TB|SSD|M.2|$97.99|null
+Western Digital|Blue|500GB|SSD|M.2|$59.99|null
+Western Digital|Blue|2TB|HDD|3.5"|$44.99|null
+PNY|CD900|240GB|SSD|2.5"|$27.99|null
+Western Digital|Red|4TB|HDD|3.5"|$79.98|null
+Patriot|P300|256GB|SSD|M.2|$31.99|null
+Corsair|MP600 Force Series Gen4|2TB|SSD|M.2|$279.99|null
+Crucial|BX500|1TB|SSD|2.5"|$89.99|null
+Seagate|IronWolf NAS|8TB|HDD|3.5"|$215.99|null
+Western Digital|BLACK SERIES|2TB|HDD|3.5"|$79.98|null
