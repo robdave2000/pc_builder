@@ -53,7 +53,7 @@
 53|AMD|Athlon|200GE|2|4|3.2GHz|3.2GHz|35W|Radeon Vega 3|AM4|$89.99|null
 54|AMD|Ryzen 7|3800XT|8|16|3.9GHz|4.7GHz|105W|None|AM4|$382.50|null
 55|Intel|Core i9|10900KF|10|20|3.7GHz|5.3GHz|125W|None|LGA1200|$434.38|null
-56|Intel|Core i7|11700|8|16|2.5GHz|4.9GHz|65W|Intel UHD Graphics 750|$329.97|null
+56|Intel|Core i7|11700|8|16|2.5GHz|4.9GHz|65W|Intel UHD Graphics 750|LGA1700|$329.97|null
 57|Intel|Core i7|12700F|12|20|2.1GHz|4.9GHz|65W|None|LGA1700|$329.79|null
 58|AMD|Ryzen 3|2200G|4|8|3.5GHz|3.7GHz|65W|Radeon Vega 8|AM4|$304.49|null
 59|AMD|Ryzen 5|3600|6|12|3.6GHz|4.2GHz|65W|None|AM4|$289.99|null

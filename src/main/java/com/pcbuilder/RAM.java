@@ -22,6 +22,9 @@ public class RAM {
     @Column(name = "modules")
     private int modules;
 
+    @Column(name = "modulesSize")
+    private String modulesSize;
+
     @Column(name = "cas")
     private String cas;
 
@@ -97,6 +100,14 @@ public class RAM {
         this.amazonLink = amazonLink;
     }
 
+    public String getModulesSize() {
+        return modulesSize;
+    }
+
+    public void setModulesSize(String modulesSize) {
+        this.modulesSize = modulesSize;
+    }
+
     @Override
     public String toString() {
         return "RAM{" +
@@ -105,6 +116,7 @@ public class RAM {
                 ", name='" + name + '\'' +
                 ", speed='" + speed + '\'' +
                 ", modules=" + modules +
+                ", modulesSize='" + modulesSize + '\'' +
                 ", cas='" + cas + '\'' +
                 ", price='" + price + '\'' +
                 ", amazonLink='" + amazonLink + '\'' +

@@ -50,11 +50,11 @@
 50|Intel|660p Series|1TB|SSD|M.2|$94.99|null
 51|Toshiba|MQ01ABD032|320GB|HDD|2.5"|$13.93|null
 52|Kingston|A400|480GB|SSD|2.5"|$54.99|null
-53|Western Digital|WD_BLACK SN750|500GB|M.2|$96.35|null
+53|Western Digital|WD_BLACK SN750|500GB|SSD|M.2|$96.35|null
 54|Kingston|A400|120GB|SSD|2.5"|$23.99|null
 55|Crucial|MX500|500GB|SSD|2.5"|$54.99|null
 56|Samsung|870 Evo|2TB|SSD|2.5"|$229.99|null
-57|Western Digital|4TB|HDD|3.5"|$59.99|null
+57|Western Digital|Blue|4TB|HDD|3.5"|$59.99|null
 58|Samsung|870 QVO|4TB|SSD|2.5"|$304.00|null
 59|Samsung|860 Evo|1TB|SSD|2.5"|$249.00|null
 60|Team|MP33|1TB|SSD|M.2|$79.97|null

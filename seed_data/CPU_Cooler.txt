@@ -13,7 +13,7 @@
 13|NZXT|Kraken X63|AIO Liquid|280mm|$154.99|null
 14|Noctua|NH-U12s chromax.black|Air|null|$79.95|null
 15|NZXT|Kraken Z63|AIO Liquid|280mm|$249.45|null
-16|ARCTIC|Liquid Freezer II 240|AIO Liquid|240mm|null
+16|ARCTIC|Liquid Freezer II 240|AIO Liquid|240mm|$149.99|null
 17|Corsair|H100i v2|AIO Liquid|240mm|$89.98|null
 18|Thermaltake|UX100|Air|null|$19.98|null
 19|Corsair|iCUE H150i ELITE LCD|AIO Liquid|360mm|$289.99|null

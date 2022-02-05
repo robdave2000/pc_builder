@@ -3,7 +3,7 @@ package com.pcbuilder;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "storage")
+@Table(name = "storages")
 public class STORAGE {
 
     @Id
